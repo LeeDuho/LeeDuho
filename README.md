@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <div align="center">
 <h2>Hi, I'm Duho Lee 👋 </h2>
 
@@ -31,9 +29,12 @@
   <p>📫 e-mail: dl6874@gmail.com</p>
 </div>
 
+<!--
 ***
 <div>
   
   [![Solved.ac
   프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dl6874)](https://solved.ac/dl6874)
 </div>
+
+-->
